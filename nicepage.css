@@ -36501,32 +36501,21 @@ a.u-link.u-text-hover-grey-90:hover {
   color: rgb(197, 54, 164) !important;
 }
 
-.u-footer .u-line-1 {
-  width: 436px;
-  transform-origin: left center 0px;
-  margin: -17px auto 0;
+.u-footer .u-text-1 {
+  margin: 77px auto 57px;
 }
 
-.u-footer .u-text-1 {
-  margin: 91px auto 57px;
-}
-@media (max-width: 1199px) {
-  .u-footer .u-line-1 {
-    height: 0;
-    margin-top: -17px;
-  }
-}
 
 @media (max-width: 767px) {
   .u-footer .u-social-icons-2 {
     margin-top: 20px;
   }
-}
-@media (max-width: 575px) {
-  .u-footer .u-line-1 {
-    width: 340px;
+
+  .u-footer .u-text-1 {
+    margin-top: 77px;
   }
 }
+
 
  /*begin-variables base-font-size*/ 
  html { font-size: 16px; }
