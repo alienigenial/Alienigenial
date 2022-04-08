@@ -135,6 +135,10 @@
   position: absolute;
 }
 
+.u-section-4 .u-video-poster-1 {
+  background-image: url("images/photo_2022-04-08_16-16-00.jpg");
+}
+
 .u-section-4 .u-video-2 {
   width: 570px;
   height: 321px;
@@ -143,6 +147,10 @@
 
 .u-section-4 .embed-responsive-2 {
   position: absolute;
+}
+
+.u-section-4 .u-video-poster-2 {
+  background-image: url("images/photo_2022-04-08_16-12-27.jpg");
 }
 
 .u-section-4 .u-video-3 {
@@ -163,6 +171,10 @@
 
 .u-section-4 .embed-responsive-4 {
   position: absolute;
+}
+
+.u-section-4 .u-video-poster-3 {
+  background-image: url("images/photo_2022-04-08_16-18-15.jpg");
 }
 
 @media (max-width: 1199px) {
@@ -407,6 +419,14 @@
   left: -39%;
   height: 178%;
   top: -39%;
+}
+
+.u-section-7 .u-video-poster-2 {
+  width: 56%;
+  left: 22%;
+  height: 56%;
+  top: 22%;
+  background-image: url(images/photo_2022-04-08_16-20-56.jpg);
 }
 
 .u-section-7 .u-text-2 {
