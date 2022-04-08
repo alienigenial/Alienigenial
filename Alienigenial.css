@@ -363,7 +363,7 @@
 }
 
 .u-section-7 .u-video-1 {
-  height: 432px;
+  height: 497px;
   width: 800px;
   margin: 28px auto 0;
 }
@@ -387,23 +387,18 @@
 
 .u-section-7 .u-video-2 {
   width: 800px;
-  height: 417px;
-  margin: 65px auto 0;
+  height: 446px;
+  margin: 44px auto 0;
 }
 
 .u-section-7 .embed-responsive-2 {
   position: absolute;
 }
 
-.u-section-7 .u-text-2 {
-  width: 680px;
-  margin: 34px auto 0;
-}
-
 .u-section-7 .u-video-3 {
   height: 432px;
   width: 800px;
-  margin: 53px auto 60px;
+  margin: 53px auto 0;
 }
 
 .u-section-7 .embed-responsive-3 {
@@ -414,19 +409,24 @@
   top: -39%;
 }
 
+.u-section-7 .u-text-2 {
+  width: 680px;
+  margin: 22px auto 29px;
+}
+
 @media (max-width: 991px) {
   .u-section-7 .u-sheet-1 {
-    min-height: 1535px;
+    min-height: 1525px;
   }
 
   .u-section-7 .u-video-1 {
-    height: 389px;
+    height: 447px;
     width: 720px;
   }
 
   .u-section-7 .u-video-2 {
     width: 720px;
-    height: 375px;
+    height: 401px;
   }
 
   .u-section-7 .u-video-3 {
@@ -437,7 +437,7 @@
 
 @media (max-width: 767px) {
   .u-section-7 .u-sheet-1 {
-    min-height: 1247px;
+    min-height: 1216px;
   }
 
   .u-section-7 .u-text-1 {
@@ -445,28 +445,28 @@
   }
 
   .u-section-7 .u-video-1 {
-    height: 292px;
+    height: 335px;
     width: 540px;
   }
 
   .u-section-7 .u-video-2 {
     width: 540px;
-    height: 281px;
-  }
-
-  .u-section-7 .u-text-2 {
-    width: 540px;
+    height: 301px;
   }
 
   .u-section-7 .u-video-3 {
     height: 292px;
     width: 540px;
   }
+
+  .u-section-7 .u-text-2 {
+    width: 540px;
+  }
 }
 
 @media (max-width: 575px) {
   .u-section-7 .u-sheet-1 {
-    min-height: 927px;
+    min-height: 873px;
   }
 
   .u-section-7 .u-text-1 {
@@ -475,21 +475,21 @@
   }
 
   .u-section-7 .u-video-1 {
-    height: 184px;
+    height: 211px;
     width: 340px;
   }
 
   .u-section-7 .u-video-2 {
     width: 340px;
-    height: 177px;
-  }
-
-  .u-section-7 .u-text-2 {
-    width: 340px;
+    height: 190px;
   }
 
   .u-section-7 .u-video-3 {
     height: 184px;
+    width: 340px;
+  }
+
+  .u-section-7 .u-text-2 {
     width: 340px;
   }
 }
