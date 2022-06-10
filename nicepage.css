@@ -36402,59 +36402,14 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 135px;
-}
-
-.u-header .u-social-icons-1 {
-  white-space: nowrap;
-  height: 26px;
-  min-height: 16px;
-  width: 110px;
-  min-width: 80px;
-  margin: 36px auto 0;
-}
-
-.u-header .u-icon-1 {
-  color: rgb(59, 89, 152) !important;
-}
-
-.u-header .u-icon-2 {
-  color: rgb(85, 172, 238) !important;
-}
-
-.u-header .u-icon-3 {
-  color: rgb(197, 54, 164) !important;
-}
-
-.u-header .u-btn-1 {
-  background-image: none;
-  border-style: none;
-  align-self: center;
-  margin: 25px auto;
-  padding: 0;
-}
-@media (max-width: 1199px) {
-  .u-header .u-social-icons-1 {
-    margin-top: 210px;
-  }
-
-  .u-header .u-btn-1 {
-    margin-bottom: 20px;
-  }
+  min-height: 20px;
 }
 
 
-@media (max-width: 575px) {
-  .u-header .u-social-icons-1 {
-    margin-top: 177px;
-  }
 
-  .u-header .u-btn-1 {
-    margin-bottom: 33px;
-  }
-}
+
 .u-footer .u-sheet-1 {
-  min-height: 285px;
+  min-height: 310px;
 }
 
 .u-footer .u-social-icons-1 {
